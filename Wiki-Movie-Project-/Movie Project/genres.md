@@ -22,7 +22,7 @@ In this section, we dive into three iconic film genres: **Horror**, **Comedy**, 
 
 ### Navigation:
 
-- [🏠 Back to Home](../README.md)
+- [🏠 Back to Home](./home.md)
 - [🔙 Go Back](javascript:history.back())
 - [🎥 Explore Directors](./directors/README.md)
 - [🎬 Explore Movies](./movies/README.md)
