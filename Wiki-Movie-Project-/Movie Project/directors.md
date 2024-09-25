@@ -1,6 +1,6 @@
 **Directors**
 ## Horror
->### James Wan
+>### ![James Wan](james-wan_m4x6.jpg) James Wan
 #### Filmography (Just the Best Ones)
 #### 1) Annabel 
 #### 2) SAW
