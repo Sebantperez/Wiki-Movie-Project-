@@ -10,6 +10,33 @@ A perfectionist who assumed direct control over most aspects of his filmmaking, 
 
 While many of Kubrick's films were controversial and initially received mixed reviews upon release—particularly the brutal A Clockwork Orange (1971), which Kubrick pulled from circulation in the UK following a media frenzy—most were nominated for Academy Awards, Golden Globes, or BAFTA Awards, and underwent critical re-evaluations. For the 18th-century period film Barry Lyndon (1975), Kubrick obtained lenses developed by Carl Zeiss for NASA to film scenes by candlelight. With the horror film The Shining (1980), he became one of the first directors to make use of a Steadicam for stabilized and fluid tracking shots, a technology vital to his Vietnam War film Full Metal Jacket (1987). A few days after hosting a screening for his family and the stars of his final film, the erotic drama Eyes Wide Shut (1999), he died from a heart attack at the age of 70.
 
+>## Filmography(full)
+- the Killing (1956)
+- Paths of GLory (1957)
+- Spartacus (1960)
+- Lolita (1962)
+- Dr. Strange love or: How I Learned to Stop Worrying and Love the Bomb (1964)
+- 2001: A Space Odyssey (1968)
+- A CLockwork Orange (1971)
+- Barry Lyndon (1975)
+- The Shining (1980)
+- Full Metal Jacket (1987)
+- Empire of the Censors (1995)
+- Eyes Wide Shut (1999)
+ 
+>## Awards
+  1) Academy Awards **1965 nominee** for *Dr. Strangelove* 3x; **1969 nominee** for *2001: A Space Odyssey* 3x; **1972 nominee** for *A Clockwork Orange* 2x*; **1972 winner** for *A ClockWork Orange*; **1976 nominee** for a *Barry Lyndon* 3x; **1988 nominee** for *Full Metal Jacket*
+  2) British Academy Film Awards **1957 nominee** for *the Killing*; **1958 nominee** for *Paths of Glory*; **1961 nominee** for *Spartacus*; **1965 winner** for *Dr Strangelove* 2x; **1965 nominee** for *Dr Strangelove*; **1969 nominee** for *2001: Space Odyssey*; **1973 nominee** for *A Clockwork Orange* 2x; **1976 winner** for *Barry Lyndon*
+  3) Golden Globe Awards **1961 nominee** for *Spartacus*; **1963 nominee** for *Lolita*; **1972 nominee** for *A clockwork Orange*; **1975 nominee** for *Barry Lyndon*
+  4) Hugo Awards **1965 winner** for *Dr Strangelove*; **1969 winner** for *2001: A Space Odyssey*; **1972 winner** for *A Clockwork Orange*
+  5) Locarno International Film Festival Prize for Best Director **1955 winner** for *the Killer's Kiss*
+  6) Directors Guild of America's Award for Outstanding Directing **1962 nominee** for *Lolita*
+  7) Golden Lion **1971 nominee** for *Lolita*
+  8) New York Film Critics Circle Award for Best Picture **1971 winner** for *A Clockwork Orange*
+  9) New York Film Critics Circle Award for Best Director **1971 winner** for *A Clockwork Orange*
+  10) Saturn Award for Best Director **1980 nominee** for *the Shining*
+  11) Golden Raspberry Award for Worst Director **1980 nominee** for *the Shining*
+
 >## Carrer 
 **Short films (1951–1953)**
 Kubrick shared a love of film with his school friend Alexander Singer, who after graduating from high school had the intention of directing a film version of Homer's Iliad. Through Singer, who worked in the offices of the newsreel production company, The March of Time, Kubrick learned it could cost $40,000 to make a proper short film, money he could not afford. He had $1500 in savings and produced a few short documentaries fueled by encouragement from Singer. He began learning all he could about filmmaking on his own, calling film suppliers, laboratories, and equipment rental houses.[36]
@@ -104,41 +131,3 @@ Kubrick's final film was Eyes Wide Shut (1999), starring Tom Cruise and Nicole K
 
 Eyes Wide Shut, like Lolita and A Clockwork Orange before it, faced censorship before release. Kubrick sent an unfinished preview copy to the stars and producers a few months before release, but his sudden death on March 7, 1999, came a few days after he finished editing. He never saw the final version released to the public,[193] but he did see the preview of the film with Warner Bros., Cruise, and Kidman, and had reportedly told Warner executive Julian Senior that it was his "best film ever".[194] At the time, critical opinion of the film was mixed, and it was viewed less favorably than most of Kubrick's films. Roger Ebert awarded it 3.5 out of 4 stars, comparing the structure to a thriller and writing that it is "like an erotic daydream about chances missed and opportunities avoided", and thought that Kubrick's use of lighting at Christmas made the film "all a little garish, like an urban sideshow".[195] Stephen Hunter of The Washington Post disliked the film, writing that it "is actually sad, rather than bad. It feels creaky, ancient, hopelessly out of touch, infatuated with the hot taboos of his youth and unable to connect with that twisty thing contemporary sexuality has become."
 
-
->## Filmography(full)
-- the Killing (1956)
-- Paths of GLory (1957)
-- Spartacus (1960)
-- Lolita (1962)
-- Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
-- 2001: A Space Odyssey (1968)
-- A CLockwork Orange (1971)
-- Barry Lyndon (1975)
-- The Spy Who Loved Me (1977)
-- The Shining (1980)
-- The Fantasy Film Worlds of Geaorge Pal (1986)
-- Full Metal Jacket (1987)
-- Empire of the Censors (1995)
-- Eyes Wide Shut (1999)
-- Soccer Dog (1999)
-- A.I. Artificial Intelligence 
->## Awards
-1) Academy of Science Fiction, Fantasy & Horror films, USA **2019 nominee** for *Aquaman*
-2) Brussels International Festival of Fantasy Film **2005 winner** for *Saw*
-3) Sitges 0 Catalonian International Film Festival **2011 nominee** for *Insidious* 
-4) Fantasporto **2005 nominee** for *Saw*
-5) Gerardmer Film Festival **2005 winner** for *Saw* 2x
-6) Hollywood Film Awards **2015 winner** for *Furious 7* 2x, and **2013 nominee** for *the Conjuring*
-7) Neuchâtel International Fantastic Film Festival **2011 winner**, and **2011 nominee** for *Insidious*
-8) SXSW Fim Festival **2011 nominee** for *Insidious*
-9) San Sebastián Horror and Fantasy Film Festival **2004 winner** for *Saw*
-10) Fangoria Chainsaw awards **2024 nominee** for *M3GAN* **2014 nominee** for *Insidious: Chapter 2*, **2014 winner** for *the Conjuring* 
-11) Indiana Film Journalists Association, US **2021 nominee** for *Maligant*
-12) Fright Meter Award **2016 nominee** for *the Conjuring 2*, **2013 winner** for *the Conjuring*, **2013 nominee** for *Insidious: chapter 2* and **2011 nominee** for *Insidious*
-13) Georgia Film Critics Association (GAFCA) **2016 nominee** for *Furious 7*
-14) BloodGuts UK Horror Awards **2022 nominee** for *Maligant*
-15) Guinness World Record Award **2015 winner** for *Furious 7*
-16) Rondo Hatton Classic Horror Awards **2013 winner** for *the Conjuring*, **2013 nominee** for *Insidious: chapter 2* and **2011 nominee** for *Insidious*
-17) iHorror Awards **2017 winner** for *the Conjuring*
-18) Australians in Films Awards **2016 winner**
-19) Dragon Awards **2019 nominee** for *Aquaman*
