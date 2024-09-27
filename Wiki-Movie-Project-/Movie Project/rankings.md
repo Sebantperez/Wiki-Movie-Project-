@@ -7,26 +7,32 @@ In this section, we present a curated list of the top films across various genre
 ### Top Ranked Films:
 
 #### 📊 Overall Rankings
-1. **The Godfather** (1972)
-2. **Citizen Kane** (1941)
-3. **Casablanca** (1942)
-4. **Pulp Fiction** (1994)
-5. **Schindler's List** (1993)
+1. **The Shining**  
+2. **Green Book**  
+3. **Corpse Bride**  
+4. **Dumb and Dumber**  
+5. **Annabel**  
 
 #### 👻 Horror Rankings
-1. **The Exorcist** (1973)
-2. **Get Out** (2017)
-3. **Hereditary** (2018)
+1. **The Shining**  
+2. **Annabel**  
+3. **Saw**  
+4. **Stanley Kubrick**  
+5. **A Clockwork orange**  
 
 #### 😂 Comedy Rankings
-1. **Airplane!** (1980)
-2. **Groundhog Day** (1993)
-3. **The Grand Budapest Hotel** (2014)
+1. **Green Book**  
+2. **Dumb and Dumber** 
+3. **Peter Farrelly** 
+4. **16 Candles**
+5. **Farris bueller's day off**
 
 #### 🎭 Drama Rankings
-1. **The Shawshank Redemption** (1994)
-2. **Forrest Gump** (1994)
-3. **The Dark Knight** (2008)
+1. **Corpse Bride** 
+2. **Miss Peregrine's home for peculiar children**  
+3. **Leon the professional**
+4. **Tim Burton**
+5. **Luc Besson** 
 
 ---
 
