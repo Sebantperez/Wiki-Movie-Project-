@@ -31,28 +31,20 @@ Farrelly solo-directed and co-wrote the comedy-drama Green Book (2018), which wo
 - The Greatest Beer Run Ever: 2022
 - Lucky Hank: 2023
 - Ricky Stanicky: 2024
-- 
-
+  
 >## Awards
-1) Academy of Science Fiction, Fantasy & Horror films, USA **2019 nominee** for *Aquaman*
-2) Brussels International Festival of Fantasy Film **2005 winner** for *Saw*
-3) Sitges 0 Catalonian International Film Festival **2011 nominee** for *Insidious* 
-4) Fantasporto **2005 nominee** for *Saw*
-5) Gerardmer Film Festival **2005 winner** for *Saw* 2x
-6) Hollywood Film Awards **2015 winner** for *Furious 7* 2x, and **2013 nominee** for *the Conjuring*
-7) Neuchâtel International Fantastic Film Festival **2011 winner**, and **2011 nominee** for *Insidious*
-8) SXSW Fim Festival **2011 nominee** for *Insidious*
-9) San Sebastián Horror and Fantasy Film Festival **2004 winner** for *Saw*
-10) Fangoria Chainsaw awards **2024 nominee** for *M3GAN* **2014 nominee** for *Insidious: Chapter 2*, **2014 winner** for *the Conjuring* 
-11) Indiana Film Journalists Association, US **2021 nominee** for *Maligant*
-12) Fright Meter Award **2016 nominee** for *the Conjuring 2*, **2013 winner** for *the Conjuring*, **2013 nominee** for *Insidious: chapter 2* and **2011 nominee** for *Insidious*
-13) Georgia Film Critics Association (GAFCA) **2016 nominee** for *Furious 7*
-14) BloodGuts UK Horror Awards **2022 nominee** for *Maligant*
-15) Guinness World Record Award **2015 winner** for *Furious 7*
-16) Rondo Hatton Classic Horror Awards **2013 winner** for *the Conjuring*, **2013 nominee** for *Insidious: chapter 2* and **2011 nominee** for *Insidious*
-17) iHorror Awards **2017 winner** for *the Conjuring*
-18) Australians in Films Awards **2016 winner**
-19) Dragon Awards **2019 nominee** for *Aquaman*
+1) Academy Awards **2019 winner** for *Green Book* 2x
+2) British Academy Film Awards **2019 nominee** for *Green Book* 2x
+3) Golden Globe Awards  **2019 winner** for *Green Book* 2x; **2019 nominee** for *Green Book*
+4) Austin Film Festival **2018 winner** for *Green Book*
+5) Boston Film Festival **2018 winner** for *Green Book*
+6) Critics' Choice Movie Awards **2019 nominee** for *Green Book* 2x
+7) Daytime Emmy Award **2003 nominee** for *Ozzy & Drix* 2x
+8) Denver Film Festival **2018 winner** for *Green Book*
+9) Detroit Flim Critics Society **2018 winner** for *Green Book*
+10) Directors Guild of America Award **2019 nominee** for *Green Book*
+
+
 
 >## Carrer 
 ## **2004–2006: Debut**
