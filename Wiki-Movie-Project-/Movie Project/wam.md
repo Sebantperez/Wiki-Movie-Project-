@@ -73,3 +73,30 @@ On 7 August 2015, Wan signed-on to produce New Line Cinema's 2021 Mortal Kombat 
 On November 16, 2022, it was announced that Wan's production company Atomic Monster was in talks to merge with Jason Blum's Blumhouse Productions with the company having a shared first look deal with Universal Pictures. Both companies would continue to operate as separate labels, with each maintaining its own creative autonomy and brand identity.[78][79][80]
 
 
+<<<<<<< HEAD
+>## Filmography(full)
+- Stygian: 1998
+- Saw: 2004
+- Dead Silence: 2007
+- Death Sentence: 2007
+- Insidious: 2010
+- The Conjuring: 2013
+- Insidious: Chapter 2: 2013
+- Furious 7: 2015
+- The Conjuring 2: 2016
+- MacGyver: 2016 TV series
+- Aquaman: 2018
+- Malignant: 2021
+- Aquaman and the Lost Kingdom: 2023 
+
+>## Awards
+1) Academy of Science Fiction, Fantasy & Horror films, USA **2019 nominee** for *Aquaman*
+2) Brussels International Festival of Fantasy Film **2005 winner** for *Saw*
+3) Sitges 0 Catalonian International Film Festival **2011 nominee** for *Insidious* 
+4) Fantasporto **2005 nominee** for *Saw*
+5) Gerardmer Film Festival **2005 winner** for *Saw* 2x
+6) Hollywood Film Awards **2015 winner** for *Furious 7* 2x and **2013 nominee** for *the Conjuring*
+7) Neuchâtel International Fantastic Film Festival **2011 winner** and **2011 nominee** for *Insidious*
+8) SXSW Fim Festival **2011 nominee** for *Insidious*
+9) San Sebastián Horror and Fantasy Film Festival **2004 winner** for *Saw*
+10) Fangoria Chainsaw awards **2024 nominee** for *M3GAN* **2014 nominee** for *Insidious: Chapter 2* **2014 winner** for *the Conjuring* 
