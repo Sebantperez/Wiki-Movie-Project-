@@ -1,4 +1,4 @@
-# Luc Besson
+# Tim Burton
 >## Biography 
 Timothy Walter Burton[a] (born August 25, 1958) is an American animator, director, producer, writer and illustrator. Known for pioneering goth culture in the American film industry, Burton is famous for his gothic horror and fantasy films. He has received numerous accolades including an Emmy Award as well as nominations for two Academy Awards, a Golden Globe Award and three BAFTA Awards. He was honored with the Venice International Film Festival's Golden Lion for Lifetime Achievement in 2007 and was given the Order of the Arts and Letters by Culture Minister of France in 2010.
 
@@ -28,7 +28,11 @@ Burton has frequently collaborated with Winona Ryder, Michael Keaton, Johnny Dep
 - “Dumbo” (2019)
 
 >## Awards
-1) 
+1) Golden Lion **2007 Honoree** at the Venice Film Festival for his lifetime achievements.
+2) National Medal of Arts **2012 Recipient** from the National Endowment for the Arts for his significant contribution to the growth and development of contemporary art.
+3) Annie Awards **1994 winner** for The Nightmare Before Christmas in the category of Best Individual Achievement for Creative Supervision in the Field of Animation.
+4) Hugo Awards **1991 winner** for Edward Scissorhands in the category of Best Dramatic Presentation.
+5) Saturn Awards **2008 winner** for Sweeney Todd: The Demon Barber of Fleet Street in the category of Best Director.
    
 >## Carrer
 ## 1981–1987: Early work and breakthrough
