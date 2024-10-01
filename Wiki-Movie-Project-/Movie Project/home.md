@@ -6,12 +6,12 @@ The history of cinematography dates back to the late 19th century, when the firs
 
 ## Navigate the Project:
 
-- [📂 Genres](./genres2.md)
+- **[📂 Genres](./genres2.md)**
     - Explore in-depth overviews of **Horror**, **Comedy**, and **Drama**.
     - Dive deeper into [Directors](./directors.md) and their iconic works.
     - Learn about specific [Movies](./movies.md) within each genre.
     
-- [📊 Rankings](./rankings.md)
+- **[📊 Rankings](./rankings.md)**
     - Discover the top-ranked films in each genre and across cinema history.
 
 ---
