@@ -28,7 +28,16 @@ In 1980, near the beginning of his career, he founded his own production company
 - Dogman (2023)
 
 >## Awards
-1) 
+1) BAFTA - British Academy Film Awards 1 **Nomination 1986**
+2) Best Film Not in the English Language Subway
+3) Cesar Awards (France) **1 Win 14 Nominations 2000**
+4) Best Director (Meilleur réalisateur) The Messenger: The Story of Joan of Arc 1998
+5) Best Director (Meilleur réalisateur) The Fifth Element **Winner 1995**
+6) Best Director (Meilleur réalisateur) Léon: The Professional 1991
+7) Best Director (Meilleur réalisateur) Nikita (La femme Nikita) 1989
+8) Best Director (Meilleur réalisateur) The Big Blue 1986
+9) Best Director (Meilleur réalisateur) Subway
+10) Best Animated Film (Meilleur film d'animation) Arthur and the Two Worlds War  **winner 2000**
    
 >## Carrer
 Besson reportedly worked on the first drafts of Le Grand Bleu (The Big Blue) while still in his teens. Out of boredom, he started writing stories, including the background to what he later developed as The Fifth Element (1997), one of his most popular movies,[6] inspired by the French comic books he read as a teenager. He directed and co-wrote the screenplay of this science fiction thriller with American screenwriter Robert Mark Kamen.[7]
