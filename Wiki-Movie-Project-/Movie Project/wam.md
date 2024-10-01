@@ -1,4 +1,4 @@
-# James Wan 
+# James Wan ![James Wan](james-wan_m4x6.jpg)
 >## Biography 
 James Wan (born 26 February 1977) is an Australian filmmaker. He has primarily worked in the horror genre as the co-creator of the Saw and Insidious franchises and the creator of The Conjuring Universe. The lattermost is the highest-grossing horror franchise at over $2 billion.[2] Wan is also the founder of film and television production company Atomic Monster.
 
