@@ -1,4 +1,5 @@
-# Peter Farrelly
+# John Hughes
+![John Hughes](hughes.jpg)
 >## Biography 
 ohn Wilden Hughes Jr.[2] (February 18, 1950 – August 6, 2009) was an American film director, producer and screenwriter. He began his career in 1970 as an author of humorous essays and stories for the National Lampoon magazine. He went on in Hollywood to write, produce and direct some of the most successful live-action-comedy films of the 1980s and 1990s. He directed such films as Sixteen Candles, The Breakfast Club, Weird Science, Ferris Bueller's Day Off, Planes, Trains and Automobiles, She's Having a Baby, and Uncle Buck; and wrote the films National Lampoon's Vacation, Mr. Mom, Pretty in Pink, The Great Outdoors, National Lampoon's Christmas Vacation, Home Alone, Dutch, and Beethoven.
 
