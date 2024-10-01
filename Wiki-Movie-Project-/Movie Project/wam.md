@@ -1,6 +1,6 @@
 # James Wan 
->## Biography 
 ![James Wan](james-wan_m4x6.jpg)
+>## Biography 
 James Wan (born 26 February 1977) is an Australian filmmaker. He has primarily worked in the horror genre as the co-creator of the Saw and Insidious franchises and the creator of The Conjuring Universe. The lattermost is the highest-grossing horror franchise at over $2 billion.[2] Wan is also the founder of film and television production company Atomic Monster.
 
 Beginning his career with the Saw franchise, Wan made his feature directorial debut with his first film in 2004. The franchise became commercially successful and grossed more than $1 billion globally.[3][4] Following a period of setbacks,[5] Wan found new success with the Insidious series, in which he directed the first film in 2010 and its 2013 sequel. The same year as the second Insidious, Wan directed the first Conjuring film to critical and commercial success. He served as the director of the second installment in 2016 and produced subsequent films in the franchise.
