@@ -8,14 +8,14 @@ The history of cinematography dates back to the late 19th century, when the firs
 
 - 📂 **[Genres](./home.md)**
   - 👻 **[Horror](./horror.md)**
-    - Explore directors like **John Carpenter** and **Jordan Peele**.
-    - Discover iconic horror films like *The Shining* and *Get Out*.
+    - Explore directors like **James Wan** and **Stanley Kubrick**.
+    - Discover iconic horror films like *The Shining* and *SAW*.
   - 😂 **[Comedy](./comedy.md)**
-    - Learn about masters of comedy like **Charlie Chaplin** and **Mel Brooks**.
-    - Dive into films like *Airplane!* and *The Grand Budapest Hotel*.
+    - Learn about masters of comedy like **Peter Farrelly** and **John Hughes**.
+    - Dive into films like *16 Candles* and *Legally Blond*.
   - 🎭 **[Drama](./drama.md)**
-    - Explore powerful dramas by directors like **Martin Scorsese** and **Greta Gerwig**.
-    - Discover films like *The Godfather* and *Little Women*.
+    - Explore powerful dramas by directors like **Luc Besson ** and **Tim Burton**.
+    - Discover films like *Corpse Bridge* and *Fifth Element*.
 
 - **[📊 Rankings](./rankings.md)**
     - Discover the top-ranked films in each genre and across cinema history.

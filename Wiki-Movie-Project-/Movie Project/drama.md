@@ -6,10 +6,25 @@ The history of cinematography dates back to the late 19th century, when the firs
 
 ## Navigate the Project:
 
-- **[📂 Genres](./genres2.md)**
-    - Explore in-depth overviews of **Horror**, **Comedy**, and **Drama**.
-    - Dive deeper into [Directors](./directors.md) and their iconic works.
-    
+- 📂 **[Genres](./home.md)**
+  - 👻 **[Horror](./horror.md)**
+    - Explore directors like **James Wan** and **Stanley Kubrick**.
+    - Discover iconic horror films like *The Shining* and *SAW*.
+  - 😂 **[Comedy](./comedy.md)**
+    - Learn about masters of comedy like **Peter Farrelly** and **John Hughes**.
+    - Dive into films like *16 Candles* and *Legally Blond*.
+  - 🎭 **[Drama](./drama.md)**
+    - ## Drama
+    >### Luc Besson 
+    #### Filmography (Just the Best Ones)
+    #### 1) Leon the Proffesional 
+    #### 2) Fifth Element
+    >### Tim Burton
+    #### Filmography (Just the Best Ones)
+    #### 1) Miss Peregrine's Home for Pecular Children
+    #### 2) Corpse Bride
+
+
 - **[📊 Rankings](./rankings.md)**
     - Discover the top-ranked films in each genre and across cinema history.
 
