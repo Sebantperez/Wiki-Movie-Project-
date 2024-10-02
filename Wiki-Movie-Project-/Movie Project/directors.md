@@ -10,31 +10,31 @@ The history of cinematography dates back to the late 19th century, when the firs
     - Explore in-depth overviews of **Horror**, **Comedy**, and **Drama**.
     - Dive deeper into [Directors](./home.md) and their iconic works.
     ## Horror
-    >### ![James Wan](james-wan_m4x6.jpg) James Wan
+    >### ![James Wan](./wam.md)
     #### Filmography (Just the Best Ones)
     #### 1) Annabel 
     #### 2) SAW
-    >### Stanley Kubrick
+    >### [Stanley Kubrick](./kubrik.md)
     #### Filmography (Just the Best Ones)
     #### 1) the Shining 
     #### 2) a Clockwork Orange
 
     ## Comedy
-    >### Peter Farrelly 
+    >### [Peter Farrelly ](./farelly.md)
     #### Filmography (Just the Best Ones)
     #### 1) Legally Blond
     #### 2) Dumb and Dumber 
-    >### John Hughes
+    >### [John Hughes](./hughes.md)
     #### Filmography (Just the Best Ones)
     #### 1) 16 Candles
     #### 2) Ferris Bueller's Day Off
 
     ## Drama
-    >### Luc Besson 
+    >### [Luc Besson ](./besson.md)
     #### Filmography (Just the Best Ones)
     #### 1) Leon the Proffesional 
     #### 2) Fifth Element
-    >### Tim Burton
+    >### [Tim Burton](./burton.md)
     #### Filmography (Just the Best Ones)
     #### 1) Miss Peregrine's Home for Pecular Children
     #### 2) Corpse Bride
