@@ -17,4 +17,4 @@ The film follows newly *16-year-old*  Samantha Baker (Ringwald), who deals with 
 [def2]: cand.jpg
 [def3]: candle2.jpg
 
-#### [Home](./)
+#### [Back](./comedy.md)

@@ -16,8 +16,8 @@ The history of cinematography dates back to the late 19th century, when the firs
     #### 2) [SAW](./saw.md)
     >### Stanley Kubrick
     #### Filmography (Just the Best Ones)
-    #### 1) [The Shining ](.theshinig.md)
-    #### 2) [A Clockwork Orange](.t/clockwork.md)
+    #### 1) [The Shining ](./theshinig.md)
+    #### 2) [A Clockwork Orange](./clockwork.md)
   - 😂 **[Comedy](./comedy.md)**
     - Learn about masters of comedy like **Peter Farrelly** and **John Hughes**.
     - Dive into films like *16 Candles* and *Legally Blond*.

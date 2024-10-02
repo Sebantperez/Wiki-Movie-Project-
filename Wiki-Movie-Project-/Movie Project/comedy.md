@@ -14,7 +14,7 @@ The history of cinematography dates back to the late 19th century, when the firs
     - ## Comedy
     >### Peter Farrelly 
     #### Filmography (Just the Best Ones)
-    #### 1) [Legally Blond](./home.md)
+    #### 1) [Green Book](./greenbook.md)
     #### 2) [Dumb and Dumber](./dumb.md)
     >### John Hughes
     #### Filmography (Just the Best Ones)
@@ -26,5 +26,6 @@ The history of cinematography dates back to the late 19th century, when the firs
 
 - **[📊 Rankings](./rankings2.md)**
     - Discover the top-ranked films in each genre and across cinema history.
+
 
 ---
