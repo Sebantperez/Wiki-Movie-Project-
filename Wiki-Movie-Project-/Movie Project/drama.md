@@ -21,7 +21,7 @@ The history of cinematography dates back to the late 19th century, when the firs
     #### 2) [Fifth Element](./fifth_el.md)
     >### Tim Burton
     #### Filmography (Just the Best Ones)
-    #### 1) [Miss Peregrine's Home for Pecular Children](.miss_per.md)
+    #### 1) [Miss Peregrine's Home for Pecular Children](./miss_per.md)
     #### 2) [Corpse Bride](./bride.md)
 
 
