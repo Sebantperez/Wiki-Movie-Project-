@@ -1,4 +1,4 @@
-# Peter Farrelly
+# [Peter Farrelly](./comedy.md)
 ![Peter Farelly](farelly.jpeg)
 >## Biography 
 Peter John Farrelly (born December 17, 1956) is an American film director, screenwriter, producer and novelist. Along with his brother Bobby, the Farrelly brothers are mostly famous for directing and producing quirky comedy and romantic comedy films[1] such as Dumb and Dumber; Shallow Hal; Me, Myself and Irene; There's Something About Mary; and the 2007 remake of The Heartbreak Kid.

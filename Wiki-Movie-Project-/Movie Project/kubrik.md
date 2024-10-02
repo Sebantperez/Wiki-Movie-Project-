@@ -1,4 +1,4 @@
-# Stanley Kubrick
+# [Stanley Kubrick](./horror.md)
 ![Stanley Kubrick](image.webp)
 >## Biography 
 Stanley Kubrick (/ˈkuːbrɪk/; July 26, 1928 – March 7, 1999) was an American film director, screenwriter, producer, and photographer. Widely considered one of the greatest filmmakers of all time, his films were nearly all adaptations of novels or short stories, spanning a number of genres and gaining recognition for their intense attention to detail, innovative cinematography, extensive set design, and dark humor.
