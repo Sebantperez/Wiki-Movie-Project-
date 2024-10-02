@@ -14,12 +14,12 @@ The history of cinematography dates back to the late 19th century, when the firs
     - ## Comedy
     >### Peter Farrelly 
     #### Filmography (Just the Best Ones)
-    #### 1) Legally Blond
-    #### 2) Dumb and Dumber 
+    #### 1) [Legally Blond](./home.md)
+    #### 2) [Dumb and Dumber](./dumb.md)
     >### John Hughes
     #### Filmography (Just the Best Ones)
-    #### 1) 16 Candles
-    #### 2) Ferris Bueller's Day Off
+    #### 1) [16 Candles](./16candles.md)
+    #### 2) [Ferris Bueller's Day Off](./ferris.md)
   - 🎭 **[Drama](./drama.md)**
     - Explore powerful dramas by directors like **Luc Besson ** and **Tim Burton**.
     - Discover films like *Corpse Bridge* and *Fifth Element*.

@@ -12,12 +12,12 @@ The history of cinematography dates back to the late 19th century, when the firs
     - ## Horror
     >### ![James Wan](james-wan_m4x6.jpg) James Wan
     #### Filmography (Just the Best Ones)
-    #### 1) Annabel 
-    #### 2) SAW
+    #### 1) [Annabel](./annabelle.md) 
+    #### 2) [SAW](./saw.md)
     >### Stanley Kubrick
     #### Filmography (Just the Best Ones)
-    #### 1) the Shining 
-    #### 2) a Clockwork Orange
+    #### 1) [The Shining ](.theshinig.md)
+    #### 2) [A Clockwork Orange](.t/clockwork.md)
   - 😂 **[Comedy](./comedy.md)**
     - Learn about masters of comedy like **Peter Farrelly** and **John Hughes**.
     - Dive into films like *16 Candles* and *Legally Blond*.
@@ -29,3 +29,4 @@ The history of cinematography dates back to the late 19th century, when the firs
     - Discover the top-ranked films in each genre and across cinema history.
 
 ---
+
