@@ -39,7 +39,7 @@ The history of cinematography dates back to the late 19th century, when the firs
     #### 1) Miss Peregrine's Home for Pecular Children
     #### 2) Corpse Bride
     
-- **[📊 Rankings](./rankings2.md)**
+- **[📊 Rankings](./rankings.md)**
     - Discover the top-ranked films in each genre and across cinema history.
 
 ---

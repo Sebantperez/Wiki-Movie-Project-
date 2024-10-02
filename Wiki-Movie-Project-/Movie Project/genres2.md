@@ -17,7 +17,7 @@ The history of cinematography dates back to the late 19th century, when the firs
     - Explore powerful dramas by directors like **Luc Besson ** and **Tim Burton**.
     - Discover films like *Corpse Bridge* and *Fifth Element*.
 
-- **[📊 Rankings](./rankings.md)**
+- **[📊 Rankings](./rankings2.md)**
     - Discover the top-ranked films in each genre and across cinema history.
 
 ---
