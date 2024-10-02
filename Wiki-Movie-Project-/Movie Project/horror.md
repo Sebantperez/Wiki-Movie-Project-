@@ -10,11 +10,11 @@ The history of cinematography dates back to the late 19th century, when the firs
 - 📂 **[Genres](./home.md)**
   - 👻 **[Horror](./genres2.md)**
     - ## Horror
-    >### ![James Wan](james-wan_m4x6.jpg) James Wan
+    >### [James Wan](./wam.md)
     #### Filmography (Just the Best Ones)
     #### 1) [Annabel](./annabelle.md) 
     #### 2) [SAW](./saw.md)
-    >### Stanley Kubrick
+    >### [Stanley Kubrick](./kubrik.md)
     #### Filmography (Just the Best Ones)
     #### 1) [The Shining ](./theshinig.md)
     #### 2) [A Clockwork Orange](./clockwork.md)

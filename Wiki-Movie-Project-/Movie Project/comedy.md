@@ -12,11 +12,11 @@ The history of cinematography dates back to the late 19th century, when the firs
     - Discover iconic horror films like *The Shining* and *SAW*.
   - 😂 **[Comedy](./genres2.md)**
     - ## Comedy
-    >### Peter Farrelly 
+    >### [Peter Farrelly](./farelly.md)
     #### Filmography (Just the Best Ones)
     #### 1) [Green Book](./greenbook.md)
     #### 2) [Dumb and Dumber](./dumb.md)
-    >### John Hughes
+    >### [John Hughes](./hughes.md)
     #### Filmography (Just the Best Ones)
     #### 1) [16 Candles](./16candles.md)
     #### 2) [Ferris Bueller's Day Off](./ferris.md)
