@@ -10,7 +10,7 @@ The history of cinematography dates back to the late 19th century, when the firs
     - Explore in-depth overviews of **Horror**, **Comedy**, and **Drama**.
     - Dive deeper into [Directors](./home.md) and their iconic works.
     ## Horror
-    >### ![James Wan](./wam.md)
+    >### [James Wan](./wam.md)
     #### Filmography (Just the Best Ones)
     #### 1) Annabel 
     #### 2) SAW
